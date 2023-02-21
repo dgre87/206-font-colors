@@ -1,0 +1,55 @@
+body, html {
+  text-align: center;
+  font-family: Gotham, Helvetica, Arial, sans-serif;
+  font-size: 1em;
+ 
+}
+
+section {
+  width: 50%;
+  margin: auto;
+}
+
+phone
+h1 {
+  font-size: 2em;
+  font-color:#7b7d70;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-color:#4eafb8;
+}
+p {
+  font-size: 1.5em;
+  font-color:#ff8641;
+}
+
+tablet
+h1 {
+  font-size: 2em;
+  font-color:#02cbd2;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-color:#fcc02a;
+}
+p {
+  font-size: 1.5em;
+  font-color:#7b8f8e;
+
+  
+desktop
+h1 {
+  font-size:2em;
+  font-color:#6e4b61;
+}
+
+h2 {
+  font-size: 1.5em;
+  font-color:#cabd61;
+}
+p {
+  font-size: 1.5em;
+  font-color:#c19e74;
